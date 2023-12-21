@@ -1,7 +1,0 @@
-let time=new Date()
-console.log(time.toString())
-console.log(time.toDateString())
-console.log(time.toLocaleString())
-console.log(typeof(time))
-let DOB= new Date(2023,0,12,5,3)
-console.log(DOB.toDateString())
